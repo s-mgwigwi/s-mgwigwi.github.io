@@ -1,6 +1,6 @@
 ## Welcome to My GitHub Page
 
-![This is an image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.clipartmax.com%2Fmiddle%2Fm2H7K9m2m2G6N4d3_cup-coffee-code-programming-developer-team-pause-comments-developer-file-icon-svg%2F&psig=AOvVaw24FMxMPLO53iinY_8NFDn3&ust=1650775224148000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCOjgtZKvqfcCFQAAAAAdAAAAABAO)
+![Welcome image](https://myoctocat.com/assets/images/base-octocat.svg)
 
 Hi, Welcome to my GitHub Page. My name is
 Sange Mgwigwi and I'm a Full Stack Developer originally from Komani, South Africa.
