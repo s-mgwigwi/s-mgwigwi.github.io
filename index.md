@@ -13,6 +13,13 @@ Console.Write("Hello World!");
 Console.ReadLine();
 ```
 
+My Hobbies:
+
+- Coding
+- Listening to music
+- Coding
+- Coding
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```aboutme
