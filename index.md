@@ -9,8 +9,8 @@ Sange Mgwigwi and I'm a Full Stack Developer originally from Komani, South Afric
 My first program:
 
 ```
-`Console.Write("Hello World!");`
-`Console.ReadLine();`
+Console.Write("Hello World!");
+Console.ReadLine();
 ```
 
 My Hobbies:
@@ -32,12 +32,9 @@ My Hobbies:
 
 **Handles:**
 
-
-```handles
-[@SangeMgwigwi](https://twitter.com/@SangeMgwigwi)
-[@aifanisolutions](https://twitter.com/@aifanisolutions)
-[@aifaniaudio_com](https://twitter.com/@aifaniaudio_com
-```
+1. [@SangeMgwigwi](https://twitter.com/@SangeMgwigwi)
+2. [@aifanisolutions](https://twitter.com/@aifanisolutions)
+3. [@aifaniaudio_com](https://twitter.com/@aifaniaudio_com)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
