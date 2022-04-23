@@ -44,6 +44,11 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 ### Social Media
 
+Hashtags:
+
+- #codeblooded
+- #aifaniaudio
+- #aifani
 ```socialmedia
 @SangeMgwigwi;
 @aifanisolutions;
