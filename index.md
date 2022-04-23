@@ -1,5 +1,7 @@
 ## Welcome to My GitHub Page
 
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
 Hi, Welcome to my GitHub Page. My name is
 Sange Mgwigwi and I'm a Full Stack Developer originally from Komani, South Africa.
 
