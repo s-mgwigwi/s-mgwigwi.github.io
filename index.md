@@ -45,7 +45,12 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 ### Social Media
 
 ```socialmedia
-@SangeMgwigwi; @aifanisolutions; @aifaniaudio; #codeblooded #aifani #aifaniaudio
+@SangeMgwigwi;
+@aifanisolutions;
+@aifaniaudio;
+#codeblooded
+#aifaniaudio
+#aifani
 ```
 
 
