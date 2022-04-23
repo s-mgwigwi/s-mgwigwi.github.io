@@ -9,8 +9,8 @@ Sange Mgwigwi and I'm a Full Stack Developer originally from Komani, South Afric
 My first program:
 
 ```
-Console.Write("Hello World!");
-Console.ReadLine();
+`Console.Write("Hello World!");`
+`Console.ReadLine();`
 ```
 
 My Hobbies:
@@ -19,6 +19,25 @@ My Hobbies:
 - Listening to music
 - Coding
 - Coding
+
+### Social Media
+
+**Hashtags:**
+
+```hastags
+#codeblooded
+#aifaniaudio
+#aifani
+```
+
+**Handles:**
+
+
+```handles
+[@SangeMgwigwi](https://twitter.com/@SangeMgwigwi)
+[@aifanisolutions](https://twitter.com/@aifanisolutions)
+[@aifaniaudio_com](https://twitter.com/@aifaniaudio_com
+```
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -42,21 +61,6 @@ Syntax highlighted code block
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Social Media
-
-**Hashtags:**
-
-```hastags
-#codeblooded
-#aifaniaudio
-#aifani
-```
-
-**Handles:**
-
-[@SangeMgwigwi;](https://twitter.com/@SangeMgwigwi)
-@aifanisolutions;
-@aifaniaudio
 
 ### Support or Contact
 
