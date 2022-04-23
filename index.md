@@ -3,7 +3,7 @@
 ![Welcome image](https://myoctocat.com/assets/images/base-octocat.svg)
 
 Hi:smile:, Welcome to my GitHub Page. My name is
-Sange Mgwigwi and I'm a Full Stack Developer originally from Komani, South Africa.
+Sange Mgwigwi and I'm a Full Stack Developer from Johannesburg, South Africa.
 
 
 ### About Me
