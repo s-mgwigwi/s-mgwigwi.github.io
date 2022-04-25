@@ -26,7 +26,7 @@ My Hobbies:
 
 **Hashtags:**
 
-```hastags
+```hashtags
 #codeblooded
 #aifaniaudio
 #aifani
@@ -34,13 +34,11 @@ My Hobbies:
 
 **Handles:**
 
+```handles
 1. [@SangeMgwigwi](https://twitter.com/SangeMgwigwi)
 2. [@aifanisolutions](https://twitter.com/aifanisolutions)
 3. [@aifaniaudio_com](https://twitter.com/aifaniaudio_com)
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```aboutme
+```
 
 ### Support or Contact
 
