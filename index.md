@@ -34,11 +34,9 @@ My Hobbies:
 
 **Handles:**
 
-```handles
 1. [@SangeMgwigwi](https://twitter.com/SangeMgwigwi)
 2. [@aifanisolutions](https://twitter.com/aifanisolutions)
 3. [@aifaniaudio_com](https://twitter.com/aifaniaudio_com)
-```
 
 ### Support or Contact
 
